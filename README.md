@@ -11,9 +11,9 @@
 - ⚡ Fun fact: ...
 -->
 
-- Eu sou estudante de Economia Empresarial e Contradoria na Universidade de São Paulo (USP)
-- Estou aprendendo R, Python, Power BI e SQL
-- Meu email é catarina.aguiar3@usp.br
+Eu sou estudante de Economia e Contabilidade na  Universidade de São Paulo (USP) <br>
+Estou aprendendo sobre Análise de Dados
+
 
 
   <div style = "display:inline block"> <br>
