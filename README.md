@@ -31,3 +31,5 @@
      <img align="center" height="35" width="45" alt="CSS"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png">
      <img align="center" height="38" width="48" alt="Certificação Azure AI 900"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png">
 </div>
+  
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
