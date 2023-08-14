@@ -12,7 +12,7 @@
 -->
 
 Eu sou estudante de Economia e Contabilidade na  Universidade de São Paulo (USP) <br>
-Estou aprendendo sobre Análise de Dados
+Estou aprendendo sobre Análise de Dados, Python , Django e R
 
 
 
