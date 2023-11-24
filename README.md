@@ -12,7 +12,13 @@
 -->
 
 Eu sou estudante de Economia e Contabilidade na  Universidade de São Paulo (USP) <br>
-Estou aprendendo sobre Análise de Dados, Python , Django e R
+Estou aprendendo sobre Ciência de Dados em Python e R
+<br>
+Conhecimento: <br>
+- Algoritmos Random Forest, Kmeans e Logitisco <br>
+- Feature Selection <br>
+- Testes Paramétricos e Não Paramétricos
+
 
 
 
