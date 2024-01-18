@@ -20,14 +20,8 @@ Conhecimento: <br>
 - Testes Paramétricos e Não Paramétricos
 
 
-
-
-  <div style = "display:inline block"> <br>
-      <img width="45%" src="https://github-readme-stats.vercel.app/api?username=CatarinaAguiar3&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
-      <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatarinaAguiar3&layout=compact&langs_count=16&theme=transparent"/>
-  </div> 
   
-</div>
+
 <div align="center">
   <div sytle = "display:inline block"> <br>
     <h2 align="center">Tecnologias </h2>
