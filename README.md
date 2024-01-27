@@ -43,18 +43,17 @@ Conhecimento: <br>
         <img width="25" src="linkedin.svg">
       </a>
 </div>
-<div style="align:justify;">
+<div style="align:left;">
      <h2>Projetos</h2>
     <h3 style="text-align:left;"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
     <p>Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
-     criar um sistema de recomendação usando a linguagem python.<a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
+     criar um sistema de recomendação usando a linguagem python. <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
      projeto</a></p>
     <br>
     <h3 text-align="left;"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
-    <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a>
     <p>A rotatividade de clientes (churn) é a propensão dos clientes
      a deixarem de fazer negócios com uma empresa.Este projeto tem como objetivo prever 
-     se um cliente realizará churn em uma empresa de telecomunicações. O projeto foi realizado utilizando a liguagem R.</p>
+     se um cliente realizará churn em uma empresa de telecomunicações. O projeto foi realizado utilizando a liguagem R.     <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> </p>
 </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
