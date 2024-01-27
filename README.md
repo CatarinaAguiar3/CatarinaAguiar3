@@ -22,10 +22,10 @@ Conhecimento: <br>
 
   
 
-<div align="center">
+<div align="left">
   <div sytle = "display:inline block"> <br>
     <h1 align="center">Tecnologias </h1>
-     <img align="center" height="30" width="40" alt="Linguagem R"       src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png">
+     <img align="left" height="30" width="40" alt="Linguagem R"       src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png">
      <img align="center" height="35" width="45" alt="Python"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png">
      <img align="center" height="33" width="45" alt="SQL"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png">
      <img align="center" height="35" width="45" alt="Power BI"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png">
