@@ -45,7 +45,7 @@ Conhecimento: <br>
 </div>
 <div>
      <h2>Projetos</h2>
-    <h3 style="text-align:left"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
+    <h3 align="left"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
      criar um sistema de recomendação usando a linguagem python. <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
      projeto</a></p>
