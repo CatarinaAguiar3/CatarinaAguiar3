@@ -1,4 +1,4 @@
-### Olá, me chamo Catarina Aguiar 👋
+# Olá, me chamo Catarina Aguiar 👋
 
 <!-- para criar um emoji basta clicar na tecla "windows" + "."
 - 🔭 I’m currently working on ...
@@ -24,7 +24,7 @@ Conhecimento: <br>
 
 <div align="center">
   <div sytle = "display:inline block"> <br>
-    <h2 align="center">Tecnologias </h2>
+    <h1 align="center">Tecnologias </h1>
      <img align="center" height="30" width="40" alt="Linguagem R"       src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png">
      <img align="center" height="35" width="45" alt="Python"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png">
      <img align="center" height="33" width="45" alt="SQL"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png">
@@ -35,7 +35,7 @@ Conhecimento: <br>
 </div>
 
 <div>
-  <h2>Redes Sociais</h2>
+  <h1>Redes Sociais</h1>
     <a href = "mailto:catarina.aguiar3@usp.br">
         <img width="30" src="gmail.svg">
       </a>
@@ -44,7 +44,7 @@ Conhecimento: <br>
       </a>
 </div>
 <div>
-     <h2>Projetos</h2>
+     <h1>Projetos</h1>
     <h3 align="left"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
      criar um sistema de recomendação usando a linguagem python. <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
