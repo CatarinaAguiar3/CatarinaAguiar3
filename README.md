@@ -50,7 +50,7 @@ Conhecimento: <br>
      criar um sistema de recomendação usando a linguagem python. <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
      projeto</a></p>
     <br>
-    <h3 text-align="left"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
+    <h3 align="left"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
     <p align="left">A rotatividade de clientes (churn) é a propensão dos clientes
      a deixarem de fazer negócios com uma empresa.Este projeto tem como objetivo prever 
      se um cliente realizará churn em uma empresa de telecomunicações. O projeto foi realizado utilizando a liguagem R.     <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> </p>
