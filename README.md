@@ -43,7 +43,7 @@ Conhecimento: <br>
         <img width="25" src="linkedin.svg">
       </a>
 </div>
-<div align="justify">
+<div>
      <h2>Projetos</h2>
     <h3 style="text-align:left;"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
