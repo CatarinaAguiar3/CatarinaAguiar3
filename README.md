@@ -46,10 +46,9 @@ Conhecimento: <br>
 <div style="align:justify;">
      <h2>Projetos</h2>
     <h3 style="text-align:left;"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
-    <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do projeto</a>
-    <br>
     <p>Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
-     criar um sistema de recomendação usando a linguagem python.</p>
+     criar um sistema de recomendação usando a linguagem python.<a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
+     projeto</a></p>
     <br>
     <h3 text-align="left;"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
     <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a>
