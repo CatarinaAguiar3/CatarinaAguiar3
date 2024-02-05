@@ -44,6 +44,7 @@ Conhecimento: <br>
       </a>
 </div>
 <div>
+  <!-- 
      <h1>Projetos</h1>
     <h3 align="left"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
@@ -60,6 +61,6 @@ Conhecimento: <br>
       <br>
       <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> 
     </p>
-</div>
+</div> -->
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
