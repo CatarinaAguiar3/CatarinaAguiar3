@@ -25,16 +25,10 @@ Tenho conhecimento em:
 
 
 ### Tecnologias
-| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**
-|:-------------------------|:-------------------|:-------------------| 
-| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** | <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)** |
-<!--
-| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |
-|--------------------------|:-------------------|
-|<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python** | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS** |
-| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** | <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)** |
-| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI** | |
--->
+| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  | <img height="15" width="23" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/552e04a3db0f687a7a3659106370329b3dbee82a/Logo_Excel.png">   **Excel**                                                                                                           |  <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**        | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |       
+|:---------------------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------------------------------------------------------------------------| 
+|<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**                                | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL**  | <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)** | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS**  |                    
+
 
 <!--## 📬 Entre em contato comigo:-->
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
