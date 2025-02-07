@@ -20,10 +20,9 @@ Tenho conhecimento em:
 
 
 ### Tecnologias
-<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |   <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png"><b>HTML</b>    |
-<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python** |  <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS**      |
-<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** |  <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)**    |
-<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**    |
+| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**
+|:-------------------------|:-------------------|:-------------------| 
+| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** | <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)** |
 <!--
 | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |
 |--------------------------|:-------------------|
