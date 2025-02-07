@@ -14,7 +14,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Sobre
+## Sobre
 Este é o meu portfólio em **Análise de Dados**  e **Ciência de Dados**. <br>
 Sou estudante de Economia Empresarial e Controladoria na Universidade de São Paulo (USP). Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
 Tenho conhecimento em: 
@@ -24,7 +24,7 @@ Tenho conhecimento em:
 - Algoritmos de Aprendizagem Supervisionada e Não Supervisionada
 
 
-### Tecnologias
+## Tecnologias
 | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |<img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**
 |:-------------------------|:-------------------|:-------------------| 
 | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**| <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** | <img height="17" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png"> **AI-900 (Azure)** |
@@ -36,11 +36,10 @@ Tenho conhecimento em:
 | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI** | |
 -->
 
-## 📬 Entre em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
-[![E-mail](https://img.shields.io/badge/E--mail-004aad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catarina.aguiar3@usp.br)
-
-### Contatos
+<!--## 📬 Entre em contato comigo:-->
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
+[![E-mail](https://img.shields.io/badge/E--mail-004aad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catarina.aguiar3@usp.br)-->
+## Entre em contato comigo:
 <img width="15" src="gmail.svg"> <a href = "mailto:catarina.aguiar3@usp.br"> catarina.aguiar3@usp.br
       </a> <br>
 <img width="15" src="linkedin.svg"> <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
@@ -78,8 +77,8 @@ Tenho conhecimento em:
 <div>
 -->
 
-<h1>Projetos</h1>
-  <h2>Projetos -  linguagem R</h2>
+<h1>Projetos 💡 </h1>
+  <h2> Projetos -  linguagem R</h2>
    <h3 align="left"><b>Segmentação de dados de óbito materno- DataSUS</b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
