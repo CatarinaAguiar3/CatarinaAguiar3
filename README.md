@@ -1,5 +1,9 @@
 # Olá, me chamo Catarina Aguiar 👋
 
+<a href="https://github.com/CatarinaAguiar3/CatarinaAguiar3/edit/main/README.md#projetos">
+    <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge&logo=github&logoColor=white" alt="⬇Veja meu portfólio">
+</a>
+
 <!-- para criar um emoji basta clicar na tecla "windows" + "."
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -69,15 +73,16 @@ Tenho conhecimento em:
 <div>
 -->
 
-  <h1>Projetos -  linguagem R</h1>
-   <h3 align="left"><b>Segmentação de dados de óbito materno- DataSUS</b></h3>
+<h1>Projetos</h1>
+  <h2>Projetos -  linguagem R</h2>
+   <h4 align="left"><b>Segmentação de dados de óbito materno- DataSUS</b></h4>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
       <a href="https://github.com/CatarinaAguiar3/Projeto_Cluster_DataSUS">Link do 
      projeto</a>
     </p>
-    <h1>Projetos -  linguagem Python</h1>
-  <h3 align="left"><b>Sistema de Recomendação MovieLens</b></h3>
+    <h2>Projetos -  linguagem Python</h2>
+  <h4 align="left"><b>Sistema de Recomendação MovieLens</b></h4>
     <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
       <br>
       <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">Link do 
