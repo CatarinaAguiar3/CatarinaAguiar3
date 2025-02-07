@@ -1,11 +1,11 @@
 # Olá, me chamo Catarina Aguiar 👋
 
-<a href="https://github.com/CatarinaAguiar3#projetos">
+<a href="https://github.com/CatarinaAguiar3#projetos--">
     <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge" alt="Veja meu portfólio">
 </a>
 
 <br><br>
-<a href="https://seuportfolio.com" target="_blank">
+<a href="https://github.com/CatarinaAguiar3#projetos--" target="_blank">
     <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Veja meu portfólio">
 </a>
 
