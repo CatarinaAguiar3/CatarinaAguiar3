@@ -47,21 +47,7 @@ Tenho conhecimento em:
 
 
 
-                                                                                                                         
-<!--
-<div align="left">
-  <div sytle = "display:inline block"> <br>
-    <h1 align="left">Tecnologias </h1>
-     <img align="center" height="30" width="40" alt="Linguagem R"       src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png">
-     <img align="center" height="35" width="45" alt="Python"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png">
-     <img align="center" height="33" width="45" alt="SQL"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png">
-     <img align="center" height="35" width="45" alt="Power BI"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png">
-     <img align="center" height="35" width="45" alt="HTML"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">
-     <img align="center" height="35" width="45" alt="CSS"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png">
-     <img align="center" height="38" width="48" alt="Certificação Azure AI 900"  src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AI_Fundamentals-min.png">
-</div>-->
-
-<!--
+                                                                                                                        
 <div>
   <h1>Redes Sociais</h1>
     <a href = "mailto:catarina.aguiar3@usp.br">
@@ -72,7 +58,7 @@ Tenho conhecimento em:
       </a>
 </div>
 <div>
--->
+
 
 <h1>Projetos 💡 </h1>
   <h2> Projetos -  linguagem R</h2>
