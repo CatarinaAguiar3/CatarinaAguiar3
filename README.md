@@ -48,7 +48,7 @@ Conhecimento: <br>
    <h3 align="left"><b>Segmentação de dados de óbito materno</b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
-      <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
+      <a href="https://github.com/CatarinaAguiar3/Projeto_Cluster_DataSUS">Link do 
      projeto</a>
     </p>
     <br>
