@@ -4,6 +4,11 @@
     <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge" alt="Veja meu portfólio">
 </a>
 
+<br><br>
+<a href="https://seuportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge&logo=github&logoColor=white" alt="Veja meu portfólio">
+</a>
+
 <!-- para criar um emoji basta clicar na tecla "windows" + "."
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
