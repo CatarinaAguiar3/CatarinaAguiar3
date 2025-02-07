@@ -44,16 +44,32 @@ Conhecimento: <br>
       </a>
 </div>
 <div>
-  <!-- 
      <h1>Projetos</h1>
-    <h3 align="left"><b>Sistema de Recomendação do Delivery Zomato</b></h3>
-    <p align="left">Zomato é um aplicativo de entrega de comida da índia.Este projeto busca 
-     criar um sistema de recomendação usando a linguagem python. 
+   <h3 align="left"><b>Segmentação de dados de óbito materno</b></h3>
+    <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
-      <a href="https://catarinaaguiar3.github.io/sist_recomend_teste/">Link do 
+      <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
      projeto</a>
     </p>
     <br>
+    <h3 align="left"><b>Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
+    <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
+      <br>
+      <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
+     projeto</a>
+    </p>
+    <br>
+    <h3 align="left"><b>Sistema de Recomendação MovieLens</b></h3>
+    <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
+      <br>
+      <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">Link do 
+     projeto</a>
+    </p>
+    <br>
+    
+
+</div>
+  <!--
     <h3 align="left"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
     <p align="left">A rotatividade de clientes (churn) é a propensão dos clientes
      a deixarem de fazer negócios com uma empresa.Este projeto tem como objetivo prever 
@@ -61,6 +77,6 @@ Conhecimento: <br>
       <br>
       <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> 
     </p>
-</div> -->
+</div>    -->
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
