@@ -31,9 +31,11 @@ Tenho conhecimento em:
 
 
 <!--## 📬 Entre em contato comigo:-->
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
-[![E-mail](https://img.shields.io/badge/E--mail-004aad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catarina.aguiar3@usp.br)-->
+
 ### Entre em contato comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
+[![E-mail](https://img.shields.io/badge/E--mail-004aad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catarina.aguiar3@usp.br)
+<!--
 <img width="20" src="gmail.svg"> <a href = "mailto:catarina.aguiar3@usp.br"> catarina.aguiar3@usp.br
       </a> <br>
 <img width="20" src="linkedin.svg"> <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
@@ -41,6 +43,7 @@ Tenho conhecimento em:
       </a>
 </div>
 <div>
+-->
 
 
 
