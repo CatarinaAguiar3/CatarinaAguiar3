@@ -13,7 +13,7 @@
 Este é o meu portfólio em **Análise de Dados**  e **Ciência de Dados**. <br>
 Sou estudante de Economia Empresarial e Controladoria na  Universidade de São Paulo (USP). Durante a graduação eu cursei disciplinas de Economia e de Contabilidade. O que me possibilitou o aprendizado sobre **negócios**. <br>
 
-Tenho conhecimento em: 
+E, complementei minha formação com o estudo de **programação** e **machine learning**. Tenho conhecimento em: 
 - Limpeza e Transformação dos dados
 - Feature Selection 
 - Testes Paramétricos e Não Paramétricos
