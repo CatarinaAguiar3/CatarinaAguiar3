@@ -61,20 +61,20 @@ Tenho conhecimento em:
 
 <h1>Portfólio 💡 </h1>
   <h2> Projetos -  linguagem R</h2>
-   <h3 align="left"><b>Segmentação de dados de óbito materno- DataSUS</b></h3>
+   <h3 align="left"><b>🤰 Segmentação de dados de óbito materno- DataSUS  </b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
       <a href="https://github.com/CatarinaAguiar3/Projeto_Cluster_DataSUS">Link do 
      projeto</a>
     </p>
     <h2>Projetos -  linguagem Python</h2>
-  <h3 align="left"><b>Sistema de Recomendação MovieLens</b></h3>
+  <h3 align="left"><b>🎬 Sistema de Recomendação MovieLens </b></h3>
     <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
       <br>
       <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">Link do 
      projeto</a>
     </p>
-    <h3 align="left"><b>Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
+    <h3 align="left"><b>🛵 Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
       <br>
       <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
