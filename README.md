@@ -97,18 +97,19 @@ Tenho conhecimento em:
 
 <h1></h1>
 <!-- Contador de Visitas 1 -->
-<!--<p align="center"> 
+<p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/CatarinaAguiar3/count.svg" />
-</p>-->
+</p>
 
 <!-- Contador de Visitas 2 -->
-<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=CatarinaAguiar3&label=Profile%20views&color=0e75b6&style=flat" alt="CatarinaAguiar3" /> </p>-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=CatarinaAguiar3&label=Profile%20views&color=0e75b6&style=flat" alt="CatarinaAguiar3" /> </p>
 
 <!-- Contador de Visitas 3 -->
-<!-- <div align="center">
+<div align="left">
     <img alt="Visitor Stats" 
         src="https://widgetbite.com/stats/CatarinaAguiar3"/>  
-</div>-->
+</div>
+
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
