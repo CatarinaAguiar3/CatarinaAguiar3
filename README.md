@@ -94,5 +94,7 @@ Tenho conhecimento em:
       <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> 
     </p>
 </div>    -->
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CatarinaAguiar3&label=Profile%20views&color=0e75b6&style=flat" alt="CatarinaAguiar3" /> </p>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
