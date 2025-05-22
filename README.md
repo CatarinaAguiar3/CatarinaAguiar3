@@ -61,6 +61,15 @@ Tenho conhecimento em:
 
 <h1>Portfólio 💡 </h1>
   <h2> Projetos -  linguagem R</h2>
+<h3 align="left"><b>:tangerine: Segmentação de clientes de um supermercado</b></h3>
+    <p align="left">O objetivo deste projeto é segmentar os clientes de um supermercado com base em seus perfis de compra, utilizando o algoritmo K-Means e o método do cotovelo. Também será realizada uma análise descritiva dos dados.
+      <br>
+      <a href="https://github.com/CatarinaAguiar3/Projeto_Segmentacao_Clientes_Supermercado">Link do 
+     projeto</a>
+
+
+
+  
    <h3 align="left"><b>🤰 Segmentação de dados de óbito materno- DataSUS  </b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
