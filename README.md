@@ -70,7 +70,7 @@ Tenho conhecimento em:
     </p>
      <h3 align="left">📡Previsão da Rotatividade de Clientes de Telecomunicação (Churn Prediction) </b></h3>
     <p align="left"> A rotatividade de clientes (churn) representa a probabilidade de um cliente deixar de utilizar os serviços de uma empresa em determinado período.
-Este projeto tem como objetivo prever o churn de clientes de uma empresa de telecomunicações, utilizando a linguagem R.
+Neste projeto, são aplicados modelos de Regressão Logística e Random Forest para prever o churn de clientes de uma empresa de telecomunicações, utilizando a linguagem R.
       <br>
        🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes">Link do 
      projeto</a>
