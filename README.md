@@ -62,10 +62,18 @@ Tenho conhecimento em:
 <h1>Portfólio 💡 </h1>
   <h2> Projetos -  linguagem R</h2>
 <h3 align="left"><b>:tangerine: Segmentação de clientes de um supermercado</b></h3>
-    <p align="left">O objetivo deste projeto é segmentar os clientes de um supermercado com base em seus perfis de compra, utilizando o algoritmo K-Means e o método do cotovelo. Também será realizada uma análise descritiva dos dados.
+    <p align="left">
+        O objetivo deste projeto é segmentar os clientes de um supermercado com base em seus perfis de compra, utilizando o algoritmo K-Means e o método do cotovelo. Também será realizada uma análise descritiva dos dados.
       <br>
-      <a href="https://github.com/CatarinaAguiar3/Projeto_Segmentacao_Clientes_Supermercado">Link do 
+       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Segmentacao_Clientes_Supermercado">Link do 
      projeto</a>
+    </p>
+     <h3 align="left">📡Previsão da Rotatividade de Clientes de Telecomunicação (Churn Prediction) </b></h3>
+    <p align="left"> A rotatividade de clientes (churn) é definida como a propensão dos clientes a deixarem de fazer negócios com uma empresa em um determinado período de tempo. Este projeto tem como objetivo prever se um cliente realizará churn em uma empresa de telecomunicações. Ele foi desenvolvido usando a liguagem R.
+      <br>
+       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes/#previs%C3%A3o-da-rotatividade-de-clientes-em-uma-empresa-de-telecomunica%C3%A7%C3%B5es-churn-prediction">Link do 
+     projeto</a>
+     </p> 
 
 
 
@@ -73,20 +81,20 @@ Tenho conhecimento em:
    <h3 align="left"><b>🤰 Segmentação de dados de óbito materno- DataSUS  </b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
-      <a href="https://github.com/CatarinaAguiar3/Projeto_Cluster_DataSUS">Link do 
+       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Cluster_DataSUS">Link do 
      projeto</a>
     </p>
     <h2>Projetos -  linguagem Python</h2>
   <h3 align="left"><b>🎬 Sistema de Recomendação MovieLens </b></h3>
     <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
       <br>
-      <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">Link do 
+       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">Link do 
      projeto</a>
     </p>
     <h3 align="left"><b>🛵 Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
       <br>
-      <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
+       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
      projeto</a>
     </p>
     <br>
