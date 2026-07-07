@@ -120,7 +120,7 @@ Neste projeto, são aplicados modelos de Regressão Logística e Random Forest p
 <br>
     <h3 align="left"><b>🛵 Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
-      <br><br>
+      <br>
         <kbd>Python</kbd> <kbd>Regra de Associação</kbd> <kbd>EDA</kbd> <kbd>FP-Growth</kbd>
     </p>
     <p>
