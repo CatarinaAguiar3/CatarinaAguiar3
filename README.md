@@ -17,7 +17,7 @@
 -->
 ### Sobre
 Este é o meu portfólio em **Análise de Dados**  e **Ciência de Dados**. <br>
-Sou estudante de Economia Empresarial e Controladoria na Universidade de São Paulo (USP). Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
+Sou formada em Economia Empresarial e Controladoria na Universidade de São Paulo (USP) e estudante de Ciência da Computação na Estácio. Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
 Tenho conhecimento em: 
 - Limpeza e Transformação dos dados
 - Feature Selection 
@@ -60,7 +60,6 @@ Tenho conhecimento em:
 
 
 <h1>Portfólio 💡 </h1>
-  <h2> Projetos -  linguagem R</h2>
 <h3 align="left"><b>💬 Chatbot com Arquitetura RAG</b></h3>
     <p align="left">
         Foi desenvolvido um chatbot que pode ser utilizado por empresas para consultar informações internas que não estão disponíveis publicamente. A solução é baseado na arquitetura RAG, foi desenvolvida em Python, utilizando Django para a aplicação web e LangChain para orquestrar a pipeline de IA Generativa.
@@ -69,11 +68,33 @@ Tenho conhecimento em:
         <p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
-<br>
   <!--<p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-24292F?style=for-the-badge" alt="Ver projeto">
 </a>
      </p>-->
+<br>
+    <h3 align="left">📡Previsão da Rotatividade de Clientes de Telecomunicação (Churn Prediction) </b></h3>
+    <p align="left"> A rotatividade de clientes (churn) representa a probabilidade de um cliente deixar de utilizar os serviços de uma empresa em determinado período.
+Neste projeto, são aplicados modelos de Regressão Logística e Random Forest para prever o churn de clientes de uma empresa de telecomunicações, utilizando a linguagem R.
+      <br>
+        <kbd>R</kbd> <kbd>Classificação</kbd> <kbd>Random Forest</kbd> <kbd>Regressão Logística</kbd>
+     </p> 
+     <p>
+         <a href="https://github.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes">
+    <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
+</a></p>
+<br>
+       <h3 align="left"><b>🎬 Sistema de Recomendação MovieLens </b></h3>
+    <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
+      <br>
+        <kbd>Python</kbd> <kbd>Sistema de Recomendação</kbd> <kbd>SVD</kbd> <kbd>KNN</kbd> <kbd>FP-Growth</kbd>
+    </p>
+         <p>
+         <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">
+    <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
+</a></p>
+<br>
+
          
 
 <h3 align="left"><b>:tangerine: Segmentação de clientes de um supermercado</b></h3>
@@ -87,19 +108,6 @@ Tenho conhecimento em:
 </a>
     </p>
     <br>
-    <h3 align="left">📡Previsão da Rotatividade de Clientes de Telecomunicação (Churn Prediction) </b></h3>
-    <p align="left"> A rotatividade de clientes (churn) representa a probabilidade de um cliente deixar de utilizar os serviços de uma empresa em determinado período.
-Neste projeto, são aplicados modelos de Regressão Logística e Random Forest para prever o churn de clientes de uma empresa de telecomunicações, utilizando a linguagem R.
-      <br>
-        <kbd>R</kbd> <kbd>Classificação</kbd> <kbd>Random Forest</kbd> <kbd>Regressão Logística</kbd>
-     </p> 
-     <p>
-         <a href="https://github.com/CatarinaAguiar3/Projeto_Previsao_da_Rotatividade_de_Clientes">
-    <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
-</a></p>
-<br>
-     
- 
    <h3 align="left"><b>🤰 Segmentação de dados de óbito materno- DataSUS  </b></h3>
     <p align="left">Este projeto é sobre Óbitos maternos durante a gravidez, parto e o puerpério de mulheres com idades entre 10 a 49 anos , ocorridos nos municípios do estado do Rio de Janeiro, entre 2012 e 2022. Foi realizada uma Análise Exploratória com mapas e uma segmentação usando cluster hierárquico.  
       <br>
@@ -110,23 +118,10 @@ Neste projeto, são aplicados modelos de Regressão Logística e Random Forest p
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
 <br>
-    <h2>Projetos -  linguagem Python</h2>
-  <h3 align="left"><b>🎬 Sistema de Recomendação MovieLens </b></h3>
-    <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
-      <br><br>
-        <kdb>Python</kdb>  <kbd>Sistema de Recomendação</kbd> <kbd>SVD</kbd> <kbd>KNN</kbd> <kbd>FP-Growth</kbd>
-    </p>
-         <p>
-         <a href="https://github.com/CatarinaAguiar3/Projeto_Sistema_de_Recomendacao_MovieLens">
-    <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
-</a></p>
-<br>
     <h3 align="left"><b>🛵 Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
     <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
       <br><br>
         <kbd>Python</kbd> <kbd>Regra de Associação</kbd> <kbd>EDA</kbd> <kbd>FP-Growth</kbd>
-       🔗<a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">Link do 
-     projeto</a>
     </p>
     <p>
          <a href="https://github.com/CatarinaAguiar3/Projeto_Analise_Exploratoria_dos_dados_do_delivery_Zomato">
