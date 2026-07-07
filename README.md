@@ -61,6 +61,14 @@ Tenho conhecimento em:
 
 <h1>Portfólio 💡 </h1>
   <h2> Projetos -  linguagem R</h2>
+<h3 align="left"><b>💬 Chatbot com Arquitetura RAG</b></h3>
+    <p align="left">
+        Foi desenvolvido um chatbot que pode ser utilizado por empresas para consultar informações internas que não estão disponíveis publicamente. A solução é baseado na arquitetura RAG, foi desenvolvida em Python, utilizando Django para a aplicação web e LangChain para orquestrar a pipeline de IA Generativa.
+      <br>
+       🔗<a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">Link do 
+     projeto</a>
+    </p>
+  
 <h3 align="left"><b>:tangerine: Segmentação de clientes de um supermercado</b></h3>
     <p align="left">
         O objetivo deste projeto é segmentar os clientes de um supermercado com base em seus perfis de compra, utilizando o algoritmo K-Means e o método do cotovelo. Também será realizada uma análise descritiva dos dados.
