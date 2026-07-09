@@ -68,6 +68,7 @@ Tenho conhecimento em:
         <p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
+<br>
 
 <h3 align="left"><b>😃 Reconhecimento de Emoções usando Sentence BERT</b> <small>(Pesquisa)</small></h3>
     <p align="left">
@@ -77,6 +78,7 @@ Tenho conhecimento em:
         <p><a href="https://github.com/CatarinaAguiar3/Reconhecimento_de_Emocoes_com_SBERT">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
+<br>
   <!--<p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-24292F?style=for-the-badge" alt="Ver projeto">
 </a>
