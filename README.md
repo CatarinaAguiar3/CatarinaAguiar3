@@ -74,14 +74,13 @@ Tenho conhecimento em:
         Projeto de Processamento de Linguagem Natural (NLP) que utiliza Sentence-BERT (SBERT) para identificar emoções predominantes em relatórios financeiros de empresas brasileiras. Baseado na minha pesquisa de Iniciação Científica e no TCC.
         <br>
         <kbd>Python</kbd> <kbd> Processamento de Liguagem Natural</kbd> <kbd>Pesquisa Acadêmica</kbd></p>
-        <p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
+        <p><a href="https://github.com/CatarinaAguiar3/Reconhecimento_de_Emocoes_com_SBERT">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
   <!--<p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-24292F?style=for-the-badge" alt="Ver projeto">
 </a>
      </p>-->
-<br>
     <h3 align="left">📡Previsão da Rotatividade de Clientes de Telecomunicação (Churn Prediction) </b></h3>
     <p align="left"> A rotatividade de clientes (churn) representa a probabilidade de um cliente deixar de utilizar os serviços de uma empresa em determinado período.
 Neste projeto, são aplicados modelos de Regressão Logística e Random Forest para prever o churn de clientes de uma empresa de telecomunicações, utilizando a linguagem R.
