@@ -7,12 +7,12 @@
   &nbsp;&nbsp;&nbsp;
     
   <a href="https://catarinaaguiar.com/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Meu%20site-004aad?style=for-the-badge" alt="Meu site">
+    <img src="https://img.shields.io/badge/Meu%20site-003366?style=for-the-badge" alt="Meu site">
   </a>
   &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/catarina-aguiar3/" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-003A8C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
 
