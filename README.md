@@ -11,7 +11,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 
-  <a href="https://www.linkedin.com/in/catarina-aguiar-123abc/" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/catarina-aguiar3/" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
