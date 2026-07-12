@@ -1,8 +1,23 @@
 <h1>Olá, me chamo  <a href="https://github.com/Defcon27">Catarina Aguiar</a> </h1>
 
-<a href="https://github.com/CatarinaAguiar3#portf%C3%B3lio">
-    <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge" alt="Veja meu portfólio">
-</a>
+<p align="left">
+      <a href="https://github.com/CatarinaAguiar3#portfólio" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+    
+  <a href="https://catarinaaguiar.com/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/Meu%20site-004aad?style=for-the-badge" alt="Meu site">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.linkedin.com/in/catarina-aguiar-123abc/" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+
+
+</p>
+
 
 <!-- para criar um emoji basta clicar na tecla "windows" + "."
 - 🔭 I’m currently working on ...
