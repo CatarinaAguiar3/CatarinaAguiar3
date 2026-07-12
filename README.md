@@ -55,13 +55,13 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei
 -->
 <img width="15" src="gmail.svg">️&nbsp; <a href = "mailto:catarina.aguiar3@usp.br"> catarina.aguiar3@usp.br
       </a> <br>
-<img width="15" src="linkedin.svg">&nbsp; <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
+<!--<img width="15" src="linkedin.svg">&nbsp; <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
           https://www.linkedin.com/in/catarina-aguiar-123abc/
       </a>
       <br>
 🌐 <a href = "https://catarinaaguiar.com/">
           https://catarinaaguiar.com/
-      </a>     
+      </a> -->
 </div>
 <div>
 
