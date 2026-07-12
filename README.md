@@ -2,7 +2,7 @@
 
 <p align="left">
       <a href="https://github.com/CatarinaAguiar3#portfólio" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Projetos no GitHub">
+    <img src="https://img.shields.io/badge/Ver%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
   &nbsp;&nbsp;&nbsp;
     
