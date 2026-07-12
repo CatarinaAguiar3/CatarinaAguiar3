@@ -17,13 +17,19 @@
 -->
 ### Sobre
 Este é o meu portfólio em **Análise de Dados**  e **Ciência de Dados**. <br>
-Sou formada em Economia Empresarial e Controladoria na Universidade de São Paulo (USP) e estudante de Ciência da Computação na Estácio. Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
+<!--Sou formada em Economia Empresarial e Controladoria na Universidade de São Paulo (USP) e estudante de Ciência da Computação na Estácio. Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
 Tenho conhecimento em: 
 - Limpeza e Transformação dos dados
 - Feature Selection 
 - Testes Paramétricos e Não Paramétricos
-- Algoritmos de Aprendizagem Supervisionada e Não Supervisionada
+- Algoritmos de Aprendizagem Supervisionada e Não Supervisionada -->
 
+Sou formada em Economia pela **Universidade de São Paulo (USP)**,onde realizei uma pesquisa de Iniciação Científica, com bolsa CNPq, em Ciência de Dados aplicada à Contabilidade. Atualmente, curso Ciência da Computação na Estácio.
+
+### Em que posso ajudar?
+- **Análise de Dados:** EDA, KPIs, dashboards (Power BI) e visualização de dados.
+- **Ciência de Dados e IA:** regressão, classificação, clusterização, sistemas de recomendação, NLP e RAG.
+- **Engenharia de Dados** (básico)**:** ETL, pipelines (Python e Power Query), automação, modelagem de dados e AWS.
 
 ### Tecnologias
 | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**  | <img height="15" width="23" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/552e04a3db0f687a7a3659106370329b3dbee82a/Logo_Excel.png">   **Excel**                                                                                                           |  <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**        | <img height="15" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML** |       
@@ -37,11 +43,15 @@ Tenho conhecimento em:
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar-123abc/)
 [![E-mail](https://img.shields.io/badge/E--mail-004aad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:catarina.aguiar3@usp.br)
 -->
-<img width="20" src="gmail.svg"> <a href = "mailto:catarina.aguiar3@usp.br"> catarina.aguiar3@usp.br
+<img width="15" src="gmail.svg">️&nbsp; <a href = "mailto:catarina.aguiar3@usp.br"> catarina.aguiar3@usp.br
       </a> <br>
-<img width="20" src="linkedin.svg"> <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
+<img width="15" src="linkedin.svg">&nbsp; <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
           https://www.linkedin.com/in/catarina-aguiar-123abc/
       </a>
+      <br>
+🌐 <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
+          https://www.linkedin.com/in/catarina-aguiar-123abc/
+      </a>     
 </div>
 <div>
 
