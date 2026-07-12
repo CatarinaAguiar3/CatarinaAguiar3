@@ -1,5 +1,4 @@
 <h1>Olá, me chamo  <a href="https://github.com/Defcon27">Catarina Aguiar</a> </h1>
-</h1>
 
 <a href="https://github.com/CatarinaAguiar3#portf%C3%B3lio--">
     <img src="https://img.shields.io/badge/Veja%20meu%20portfólio-004aad?style=for-the-badge" alt="Veja meu portfólio">
@@ -24,7 +23,7 @@ Tenho conhecimento em:
 - Testes Paramétricos e Não Paramétricos
 - Algoritmos de Aprendizagem Supervisionada e Não Supervisionada -->
 
-Sou formada em Economia pela **Universidade de São Paulo (USP)**,onde realizei uma pesquisa de Iniciação Científica, com bolsa CNPq, em Ciência de Dados aplicada à Contabilidade. Atualmente, curso Ciência da Computação na Estácio.
+Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei uma pesquisa de Iniciação Científica, com bolsa CNPq, em Ciência de Dados aplicada à Contabilidade. Atualmente, curso Ciência da Computação na Estácio.
 
 ### Em que posso ajudar?
 - **Análise de Dados:** EDA, KPIs, dashboards (Power BI) e visualização de dados.
@@ -49,8 +48,8 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**,onde realizei 
           https://www.linkedin.com/in/catarina-aguiar-123abc/
       </a>
       <br>
-🌐 <a href = "https://www.linkedin.com/in/catarina-aguiar-123abc/">
-          https://www.linkedin.com/in/catarina-aguiar-123abc/
+🌐 <a href = "https://catarinaaguiar.com/">
+          https://catarinaaguiar.com/
       </a>     
 </div>
 <div>
@@ -72,7 +71,7 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**,onde realizei 
 <h1>Portfólio 💡 </h1>
 <h3 align="left"><b>💬 Chatbot com Arquitetura RAG</b></h3>
     <p align="left">
-        Foi desenvolvido um chatbot que pode ser utilizado por empresas para consultar informações internas que não estão disponíveis publicamente. A solução é baseado na arquitetura RAG, foi desenvolvida em Python, utilizando Django para a aplicação web e LangChain para orquestrar a pipeline de IA Generativa.
+        Foi desenvolvido um chatbot que pode ser utilizado por empresas para consultar informações internas que não estão disponíveis publicamente. A solução é baseada na arquitetura RAG, foi desenvolvida em Python, utilizando Django para a aplicação web e LangChain para orquestrar a pipeline de IA Generativa.
         <br>
         <kbd>Python</kbd> <kbd>Django</kbd> <kbd>LangChain</kbd> <kbd>RAG</kbd></p>
         <p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
@@ -84,7 +83,7 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**,onde realizei 
     <p align="left">
         Projeto de Processamento de Linguagem Natural (NLP) que utiliza Sentence-BERT (SBERT) para identificar emoções predominantes em relatórios financeiros de empresas brasileiras. Baseado na minha pesquisa de Iniciação Científica e no TCC.
         <br>
-        <kbd>Python</kbd> <kbd> Processamento de Liguagem Natural</kbd> <kbd>Pesquisa Acadêmica</kbd></p>
+        <kbd>Python</kbd> <kbd> Processamento de Linguagem Natural</kbd> <kbd>Pesquisa Acadêmica</kbd></p>
         <p><a href="https://github.com/CatarinaAguiar3/Reconhecimento_de_Emocoes_com_SBERT">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
@@ -105,7 +104,7 @@ Neste projeto, são aplicados modelos de Regressão Logística e Random Forest p
 </a></p>
 <br>
        <h3 align="left"><b>🎬 Sistema de Recomendação MovieLens </b></h3>
-    <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A liguagem utilizada foi Python.
+    <p align="left">Neste projeto, foi construído um sistema de recomendação de filmes que utiliza dados do site MovieLens. Foram testados 3 algoritmos: FP-Growth, KNN e SVD, o último obteve o melhor desempenho. A linguagem utilizada foi Python.
       <br>
         <kbd>Python</kbd> <kbd>Sistema de Recomendação</kbd> <kbd>SVD</kbd> <kbd>KNN</kbd> <kbd>FP-Growth</kbd>
     </p>
@@ -139,7 +138,7 @@ Neste projeto, são aplicados modelos de Regressão Logística e Random Forest p
 </a></p>
 <br>
     <h3 align="left"><b>🛵 Análise Exploratória e Regra de Associação - Delivery Zomato</b></h3>
-    <p align="left">Zomato é um aplicativo de entrega de comida da índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
+    <p align="left">Zomato é um aplicativo de entrega de comida da Índia. Foi realizado uma análise exploratória e uma regra de associação usando o algoritmo FP-Growth. 
       <br>
         <kbd>Python</kbd> <kbd>Regra de Associação</kbd> <kbd>EDA</kbd> <kbd>FP-Growth</kbd>
     </p>
@@ -155,7 +154,7 @@ Neste projeto, são aplicados modelos de Regressão Logística e Random Forest p
     <h3 align="left"><b>Previsão de rotatividade (churn) de clientes de Telecomunicações</b></b></h3> 
     <p align="left">A rotatividade de clientes (churn) é a propensão dos clientes
      a deixarem de fazer negócios com uma empresa.Este projeto tem como objetivo prever 
-     se um cliente realizará churn em uma empresa de telecomunicações. O projeto foi realizado utilizando a liguagem R.
+     se um cliente realizará churn em uma empresa de telecomunicações. O projeto foi realizado utilizando a linguagem R.
       <br>
       <a href="https://catarinaaguiar3.github.io/Previsao-de-rotatividade-de-clientes-de-Telecomunicacoes/">Link do projeto</a> 
     </p>
