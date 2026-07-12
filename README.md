@@ -16,13 +16,6 @@
 -->
 ### Sobre
 Este é o meu portfólio em **Análise de Dados**  e **Ciência de Dados**. <br>
-<!--Sou formada em Economia Empresarial e Controladoria na Universidade de São Paulo (USP) e estudante de Ciência da Computação na Estácio. Durante a faculdade, aprendi bastante sobre **negócios**. E, complementei minha formação com o estudo de **programação** e **machine learning**. <br>
-Tenho conhecimento em: 
-- Limpeza e Transformação dos dados
-- Feature Selection 
-- Testes Paramétricos e Não Paramétricos
-- Algoritmos de Aprendizagem Supervisionada e Não Supervisionada -->
-
 Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei uma pesquisa de Iniciação Científica, com bolsa CNPq, em Ciência de Dados aplicada à Contabilidade. Atualmente, curso Ciência da Computação na Estácio.
 
 ### Em que posso ajudar?
@@ -71,7 +64,7 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei
 -->
 
 
-<h1>Portfólio 💡 </h1>
+<h1>Portfólio</h1>
 <h3 align="left"><b>💬 Chatbot com Arquitetura RAG</b></h3>
     <p align="left">
         Foi desenvolvido um chatbot que pode ser utilizado por empresas para consultar informações internas que não estão disponíveis publicamente. A solução é baseada na arquitetura RAG, foi desenvolvida em Python, utilizando Django para a aplicação web e LangChain para orquestrar a pipeline de IA Generativa.
