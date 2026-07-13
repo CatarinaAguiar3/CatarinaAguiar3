@@ -8,13 +8,31 @@
 
 
 # Opção 1
-|**Ciência de Dados**  | <sub><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**  &nbsp;•&nbsp;   <img height="12" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**</sub>  |
+|**Ciência de Dados**  | <sub><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python** &nbsp;•&nbsp;  <img height="12" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**<sub>  |
 | :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **IA**               | <sub><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Langchain_Logo.jpeg?raw=true"> **LangChain** &nbsp;•&nbsp; **RAG** </sub>                                                                             |
 | **Análise de Dados** |  <sub><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL**  &nbsp;•&nbsp; <img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI**  &nbsp;•&nbsp; <img height="13" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/552e04a3db0f687a7a3659106370329b3dbee82a/Logo_Excel.png">**Excel**</sub>  |
 | **Cloud**            | <sub><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AWS-logo.png?raw=true"> **AWS**</sub>                  |
 | **Web**              | <sub><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Django_logo.webp?raw=true"> **Django** &nbsp;•&nbsp; <img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML**  &nbsp;•&nbsp; <img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS**</sub>                                              |                                                          |
 
+
+
+# Opção 1
+|**Ciência de Dados**  | <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**</kbd>  <kbd><img height="12" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**</kbd>  |
+| :------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **IA**               |  <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Langchain_Logo.jpeg?raw=true"> **LangChain** </kbd>  <kbd>**RAG** </kbd>                                                                            |
+| **Análise de Dados** |   <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** </kbd>  <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI** </kbd>   <kbd><img height="13" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/552e04a3db0f687a7a3659106370329b3dbee82a/Logo_Excel.png">**Excel** </kbd> |
+| **Cloud**            | <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AWS-logo.png?raw=true"> **AWS**</kbd>             |
+| **Web**              | <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Django_logo.webp?raw=true"> **Django**</kbd> <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML**</kbd> <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS**</kbd>  
+
+
+
+# Opção 1
+- **Ciência de Dados:** <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**</kbd>  <kbd><img height="12" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**</kbd>  
+- **IA :**  <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Langchain_Logo.jpeg?raw=true"> **LangChain** </kbd>  <kbd>**RAG** </kbd>
+- **Análise de Dados:** <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_SQL.png"> **SQL** </kbd>  <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Logo_POWER_BI.svg.png"> **Power BI** </kbd>   <kbd><img height="13" width="20" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/552e04a3db0f687a7a3659106370329b3dbee82a/Logo_Excel.png">**Excel** </kbd> 
+- **Cloud:** <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/AWS-logo.png?raw=true"> **AWS**</kbd>
+-  **Web:** <kbd><img width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/Django_logo.webp?raw=true"> **Django**</kbd> <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-html-5-1536.png">**HTML**</kbd> <kbd><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo-css-3-2048.png"> **CSS**</kbd>  
 
 
 # Opção 2
