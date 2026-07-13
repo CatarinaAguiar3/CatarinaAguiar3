@@ -1,6 +1,8 @@
 <h1>Olá, me chamo  <a href="https://github.com/Defcon27">Catarina Aguiar</a> </h1>
 
-<p align="left">
+[![](https://img.shields.io/badge/Ver%20Projetos-0B1F3A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CatarinaAguiar3#portfólio) &nbsp;&nbsp; [![](https://img.shields.io/badge/Site-003366?style=for-the-badge)](https://catarinaaguiar.com/) &nbsp;&nbsp; [![](https://img.shields.io/badge/LinkedIn-003A8C?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/catarina-aguiar3/)
+
+<!--<p align="left">
       <a href="https://github.com/CatarinaAguiar3#portfólio" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Ver%20Projetos-0B1F3A?style=for-the-badge&logo=github&logoColor=white">
   </a>
@@ -16,7 +18,7 @@
   </a>
 
 
-</p>
+</p>-->
 
 
 <!-- para criar um emoji basta clicar na tecla "windows" + "."
