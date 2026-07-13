@@ -56,6 +56,34 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei
 ![HTML](https://img.shields.io/badge/HTML-004AAD?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-004AAD?style=flat&logo=css&logoColor=white)
 
+## Tecnologias
+
+**Ciência de Dados**
+
+![Python](https://img.shields.io/badge/Python-004AAD?style=flat&logo=python&logoColor=white)
+![Linguagem R](https://img.shields.io/badge/Linguagem%20R-004AAD?style=flat&logo=r&logoColor=white)
+
+**Inteligência Artificial**
+
+![LangChain](https://img.shields.io/badge/LangChain-004AAD?style=flat&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-004AAD?style=flat)
+
+**Análise de Dados**
+
+![SQL](https://img.shields.io/badge/SQL-004AAD?style=flat)
+![Power BI](https://img.shields.io/badge/Power%20BI-004AAD?style=flat&logo=powerbi&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-004AAD?style=flat&logo=microsoftexcel&logoColor=white)
+
+**Cloud**
+
+![AWS](https://img.shields.io/badge/AWS-004AAD?style=flat&logo=amazonwebservices&logoColor=white)
+
+**Desenvolvimento Web**
+
+![Django](https://img.shields.io/badge/Django-004AAD?style=flat&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-004AAD?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-004AAD?style=flat&logo=css&logoColor=white)
+
 ## 🛠️ Tecnologias
 
 | Área | Tecnologias |
@@ -66,13 +94,7 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei
 | **Cloud** | ![AWS](https://img.shields.io/badge/AWS-004AAD?style=flat&logo=amazonwebservices&logoColor=white) |
 | **Desenvolvimento Web** | ![Django](https://img.shields.io/badge/Django-004AAD?style=flat&logo=django&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-004AAD?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-004AAD?style=flat&logo=css&logoColor=white) |
 
-
-
-
-
-
-
-
+### Tecnologias
 **Ciência de Dados** <br>
 <sub><img height="13" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/logo_python.png"> **Python**  &nbsp;•&nbsp;   <img height="12" width="18" src="https://github.com/CatarinaAguiar3/CatarinaAguiar3/blob/main/r_project_official_logo_icon_170811.png"> **Linguagem R**</sub>  
 
