@@ -113,6 +113,15 @@ Sou formada em Economia pela **Universidade de São Paulo (USP)**, onde realizei
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
 </a></p>
 <br>
+<h3 align="left"><b>🤖Automação para Monitoramento e Aceite de Leads com Python e AWS</b></h3>
+    <p align="left">
+      Em um sistema comercial, novos leads precisam ser aceitos em até 10 minutos. Desenvolvi uma automação para monitorar a plataforma, assumir os leads automaticamente e notificar o vendedor por e-mail. O projeto é executado continuamente em nuvem, tem deploy automatizado e reduziu a perda de leads de 70% para 0%.
+        <br>
+        <kbd>Python</kbd> <kbd>AWS</kbd> <kbd>Automação</kbd> <kbd>Deploy</kbd></p>
+        <p><a href="https://github.com/CatarinaAguiar3/Automacao-para-Monitoramento-e-Aceite-de-Leads-com-Python-e-AWS">
+    <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-0B1F3A?style=for-the-badge" alt="Ver projeto">
+</a></p>
+<br>
   <!--<p><a href="https://github.com/CatarinaAguiar3/Chatbot_Django1/tree/main">
     <img src="https://img.shields.io/badge/🔗%20Link%20do%20projeto-24292F?style=for-the-badge" alt="Ver projeto">
 </a>
